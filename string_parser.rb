@@ -1,4 +1,5 @@
 require "rspec"
+
 # sample array of strings
 string_array = [
   "Web IconHTML & CSS100%",
@@ -11,6 +12,7 @@ string_array = [
   "Angular JSLearn AngularJS 1.X100%",
   "Javascript IconLearn JavaScript55%"
 ]
+
 # function for string parsing
 def string_parser string_array
     # init empty array
@@ -22,8 +24,10 @@ def string_parser string_array
     # return array
     final_array
 end
+
 # print inspect the final array
 p string_parser(string_array)
+
 # test the code
 describe "String Parser" do
     it "can take a string and output the correct values" do
