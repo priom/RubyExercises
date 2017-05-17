@@ -5,6 +5,7 @@
 3. Array mapping
 4. Random number generator
 5. Largest item finder Benchmarking
+6. Leap year finder
 
 Instructions:
 1. Run the program by:  
