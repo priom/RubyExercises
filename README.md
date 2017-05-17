@@ -4,7 +4,7 @@
 2. Sentence reverser
 3. Array mapping
 4. Random number generator
-5. Largest item finder
+5. Largest item finder Benchmarking
 
 Instructions:
 1. Run the program by:  
