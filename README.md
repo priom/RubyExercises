@@ -6,6 +6,7 @@
 4. Random number generator
 5. Largest item finder Benchmarking
 6. Leap year finder
+7. Palindrome
 
 Instructions:
 1. Run the program by:  
